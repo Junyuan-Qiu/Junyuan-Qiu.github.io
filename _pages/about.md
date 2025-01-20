@@ -23,5 +23,5 @@ South China University of Technology, 2018.9 – 2022.6
 **Research Assistant**, Tianjin University (Remote), 2023.12 – 2024.12  
 Conducted research in stochastic optimization and its applications in reverse supply chain management.  
 
-**Data Scientist**, Foxconn Technology Group (Shenzhen, China), 2022.7 - 2023.7  
+**Data Scientist**, Foxconn (Shenzhen, China), 2022.7 - 2023.7  
 Developed a process analysis system and multiple automated root cause analysis algorithms.
