@@ -15,5 +15,5 @@ My research interests lie in **optimization**, with a particular focus on **disc
 Columbia University, 2023.8 – 2024.12  
 
 **B.A. in Finance (Financial Technology)**  
-South China University of Technology, 2018.9 – 2022.6
+South China University of Technology, 2018.9 – 2022.6  
 *Transferred from Logistics in 2020.6*
